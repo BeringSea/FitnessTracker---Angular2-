@@ -5,10 +5,7 @@
 export const environment = {
   production: false,
   firebase: {
-    authDomain: 'ng-fitness-tracker-1715c.firebaseapp.com',
-    storageBucket: 'ng-fitness-tracker-1715c.appspot.com',
-    messagingSenderId: '419795249631',
-    appId: '1:419795249631:web:16f3764738817d20c13c6a'
+    
   }
 };
 
